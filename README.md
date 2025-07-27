@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 ¡Hola, soy Pablo!
 
-<!--
-**PABL0CR/PABL0CR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingenieria Civil en Computacion Mencion Informatica
+🔧 Actualmente trabajando en proyectos con **Python**, **MySQL**, y explorando el mundo de **Analisis de Datos** e **Machine Learning**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y herramientas favoritas
+
+- MySQL
+- Python
+- Jupyter
+- VS Code
+
+---
+
+### 📈 En constante evolución
+
+Siempre buscando aprender algo nuevo, colaborar en proyectos open source y compartir conocimientos.  
+Si tienes una idea genial, ¡hablemos!
+
+---
+
+📫 **Contacto**  
+Puedes encontrarme en [LinkedIn](https://linkedin.com/in/pcastillor) o enviarme un mensaje aquí en GitHub.
