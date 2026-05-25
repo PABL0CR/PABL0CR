@@ -1,11 +1,11 @@
 ## 👋 ¡Hola, soy Pablo!
 
 💻 Estudiante de Ingenieria Civil en Computacion Mencion Informatica
-🔧 Actualmente trabajando en proyectos con **Python**, **MySQL**, y explorando el mundo de **Analisis de Datos** e **Machine Learning**.
+🔧 Actualmente trabajando en proyectos con **Python**, **MySQL**, y explorando el mundo de **Analisis de Datos**
 
 ---
 
-### 🛠️ Tecnologías y herramientas favoritas
+### 🛠️ Tecnologías y herramientas
 
 - MySQL
 - Python
