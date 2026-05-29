@@ -1,6 +1,6 @@
 ## 👋 ¡Hola, soy Pablo!
 
-💻 Estudiante de Ingenieria Civil en Computacion Mencion Informatica
+💻 Ingenierio Civil en Infpr,atoca
 🔧 Actualmente trabajando en proyectos con **Python**, **MySQL**, y explorando el mundo de **Analisis de Datos**
 
 ---
@@ -11,6 +11,8 @@
 - Python
 - Jupyter
 - VS Code
+- Excel
+- Power BI
 
 ---
 
