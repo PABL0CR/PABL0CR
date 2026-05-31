@@ -1,7 +1,7 @@
 ## 👋 ¡Hola, soy Pablo!
 
-💻 Ingenierio Civil en Infpr,atoca
-🔧 Actualmente trabajando en proyectos con **Python**, **MySQL**, y explorando el mundo de **Analisis de Datos**
+💻 Ingenierio Civil en Informatica
+🔧 Actualmente trabajando en proyectos
 
 ---
 
@@ -9,6 +9,7 @@
 
 - MySQL
 - Python
+- Django
 - Jupyter
 - VS Code
 - Excel
